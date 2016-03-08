@@ -179,7 +179,7 @@ Posters and still images
 }
 
 .scene:nth-child(2) .poster {
-  background-image: url(../img/poster02.jpg);
+  background-image: url(../img/python-programming-on-raspberry-pi.jpg);
 }
 
 .scene:nth-child(3) .poster {
@@ -187,16 +187,19 @@ Posters and still images
 }
 
 .scene:nth-child(1) .info header {
-	background-image: url(../img/still01.jpg);
+	background-image: url(../img/introduction-python-programming-bw.jpg);
 }
 
 .scene:nth-child(2) .info header {
-	background-image: url(../img/still02.jpg);
+	background-image: url(../img/python-programming-on-raspberry-pi-bw.jpg);
 }
 
 .scene:nth-child(3) .info header {
 	background-image: url(../img/still03.jpg);
 }
+
+.toslides{padding:5px 10px;border-radius:4px;background:#666;color:#FFF;text-decoration:none;transition:all .2s}
+.toslides:hover{background:#FFD536;}
 
 /*************************************
 Fallback
